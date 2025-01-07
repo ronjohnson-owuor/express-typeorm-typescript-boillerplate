@@ -25,15 +25,20 @@ Install the required dependancies for your project
 cd express-typeorm-typescript-boillerplate
 npm install
 ```
+
 **step 4**
+set up your env variable from our .env.example
+```
+cp -r .env.example .env
+```
+note:this command will only work on linux if you are not a linux user user your OS command or create the .env file manually
+
+**step 5**
 run your project
 
 ```
 npm run dev 
 ```
-
-**step 5**
-set up your env variable from our .env.example
 
 <hr width="90%">
 
