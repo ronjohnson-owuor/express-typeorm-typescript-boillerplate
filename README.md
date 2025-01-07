@@ -1,4 +1,4 @@
-# EXPRESS,TYPEORM AND TS BOILERPLATE
+<h1 style="color:green">EXPRESS,TYPEORM AND TS BOILERPLATE</h1>
 this boilerplate is aimed at helping people developing with this tech stack (express js,typeorm,database) spin up development server very fast without wasting time on setup that may take upto hours
 
 ### steps on how to use express-typeorm-boillerplate 
@@ -42,7 +42,7 @@ npm run dev
 
 <hr width="90%">
 
-#additional documentation
+# additional documentation
 
 
 **running a migration**
