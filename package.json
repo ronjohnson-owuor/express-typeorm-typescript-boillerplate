@@ -18,6 +18,7 @@
       "typeorm": "0.3.20"
    },
    "scripts": {
+      "preinstall":"npx npm-check-updates -u",
       "start": "ts-node ./index.ts",
       "dev": "nodemon ./index.ts",
       "typeorm": "typeorm-ts-node-commonjs"
